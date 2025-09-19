@@ -6,7 +6,7 @@ we create a model that cannot be beatten by the existing ones.
 
 <img width="901" height="711" alt="System Architecture" src="https://github.com/user-attachments/assets/68e4f727-166a-41a6-a739-e2c11cd82feb" />
 
-WITH THE DEEPFAKING IMAGES LIKE
+AND THE PROCESS OF DETECTING IS LIKE
 ![WhatsApp Image 2024-08-27 at 20 05 44_e00b8305](https://github.com/user-attachments/assets/d5d38081-f286-4c32-94c0-7610d159e970)
 
 **Uses**
